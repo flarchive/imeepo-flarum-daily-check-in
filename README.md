@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of imeepo/flarum-daily-check-in.** Not for installation: use [Packagist](https://packagist.org/packages/imeepo/flarum-daily-check-in) or the [upstream repository](https://github.com/imeepo/flarum-daily-check-in).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/imeepo-flarum-daily-check-in/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/imeepo-flarum-daily-check-in/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.9` | 2023-02-02 | `^1.0` | [Browse](https://github.com/flarchive/imeepo-flarum-daily-check-in/tree/archive/v1.0.9) |
+| `v1.1.0` | 2023-02-02 | `^1.0` | [Browse](https://github.com/flarchive/imeepo-flarum-daily-check-in/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/imeepo-flarum-daily-check-in.json](https://github.com/flarchive/archive-index/blob/main/packages/imeepo-flarum-daily-check-in.json)
 
